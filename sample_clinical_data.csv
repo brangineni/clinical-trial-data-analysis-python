@@ -1,0 +1,6 @@
+Patient_ID,Age,Gender,Treatment_Group,Outcome_Score
+1,45,Male,Drug_A,78
+2,52,Female,Drug_B,85
+3,38,Male,Drug_A,82
+4,60,Female,Drug_B,88
+5,49,Male,Drug_A,75
